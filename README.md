@@ -2,7 +2,7 @@
 
 # [Thiago Schuch](https://t.me/ThigSchuch)
 
-👨🏻‍💻 Analista de Sistemas - AGTEC
+👨🏻‍💻 Desenvolvedor Backend
 
 👨🏻‍🎓 Formado em Ciência da Computação
 
@@ -50,13 +50,5 @@
 
 ![thigschuch GitHub stats](https://github-readme-stats.vercel.app/api?username=thigschuch&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thigschuch&layout=compact&theme=react)
-
-<br>
-
-# Jokes and Quotes
-
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
-  
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
 
 </div>
